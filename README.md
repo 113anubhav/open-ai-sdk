@@ -14,7 +14,7 @@ A comprehensive Node.js application for building AI agents with OpenAI API integ
 
 ## Live Demo
 
-🚀 **Live Application**: https://ai-sdk.onrender.com
+
 
 ## Quick Start
 
