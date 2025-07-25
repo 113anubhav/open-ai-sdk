@@ -22,8 +22,8 @@ A comprehensive Node.js application for building AI agents with OpenAI API integ
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd Ai-Sdk
+git clone https://github.com/113anubhav/open-ai-sdk
+cd open-ai-sdk
 ```
 
 2. **Install dependencies**
